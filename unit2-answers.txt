@@ -1,0 +1,51 @@
+## Socket Programming General True or False Statements
+# Question 'ab': True or false: The accept() function for the C programming language accepts all waiting network sockets each time it is called.
+ab=
+# Question 'ac': True or false: The close() function for the C programming language can be called by either the initiator or receiver of a socket connection.
+ac=
+# Question 'ad': True or false: The close() function for the C programming language cannot be called on connection-less sockets.
+ad=
+# Question 'ae': True or false: The write() function for the C programming language can result in a `broken pipe' condition.
+ae=
+# Question 'af': True or false: The write() function for the C programming language can be used to write data to a socket.
+af=
+# Question 'ag': True or false: The socket() function for the C programming language sets the address of a network socket
+ag=
+# Question 'ah': True or false: The write() function for the C programming language is used to write the address information into a socket.
+ah=
+# Question 'ai': True or false: The connect() function for the C programming language normally requires the network address, but not any layer 4 address of the target.
+ai=
+# Question 'aj': True or false: The close() function for the C programming language closes a server's socket and all open connections created by that socket.
+aj=
+# Question 'ak': True or false: A network socket usually contains addressing information for layer 3 and layer 4
+ak=
+# Question 'al': True or false: The send() function for the C programming language can be used to write data to a connection-oriented socket.
+al=
+# Question 'am': True or false: The bind() function for the C programming language connects a network address to a network address
+am=
+# Question 'an': True or false: The connect() function for the C programming language is used by a client to connect to a server
+an=
+# Question 'ao': True or false: The recv() function for the C programming language normally waits for data to arrive, if none is waiting.
+ao=
+# Question 'ap': True or false: The write() function for the C programming language is used to reply to a read() request from a server.
+ap=
+## Correct the lines in the supplied programme
+aq=
+ar=
+as=
+at=
+au=
+av=
+## Correct the lines in the supplied programme
+aw=
+ax=
+ay=
+az=
+ba=
+bb=
+bc=
+bd=
+be=
+bf=
+bg=
+bh=
