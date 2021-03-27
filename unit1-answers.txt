@@ -1,36 +1,36 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Defines the electrical specifications of a data connection
-ab=
+ab=1
 # Question 'ac': Which layer best fits this statement: Responsible for closing a connection, especially where it involves multiple resources
-ac=
+ac=5
 # Question 'ad': Which layer best fits this statement: Defines the physical specifications of a data connection
-ad=
+ad=1
 # Question 'ae': Which layer best fits this statement: Responsible for data compression
-ae=
+ae=6
 # Question 'af': Which layer best fits this statement: Is used to abstract the network for user-oriented programmes
-af=
+af=7
 # Question 'ag': Which layer best fits this statement: Facilitates connection-oriented communications
-ag=
+ag=4
 # Question 'ah': Which layer best fits this statement: Interprets the address in the header to determine which receiver on a local network segment should receive it.
-ah=
+ah=2
 # Question 'ai': Which layer best fits this statement: Responsible for selecting the best path between nodes
-ai=
+ai=3
 # Question 'aj': Which layer best fits this statement: Allows for the recovery of a lost connection
-aj=
+aj=4
 # Question 'ak': Which layer best fits this statement: De-duplicates received packets
-ak=
+ak=3
 # Question 'al': Which layer best fits this statement: Responsible for establishing sessions
-al=
+al=5
 # Question 'am': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
-am=
+am=2
 # Question 'an': Which layer best fits this statement: Responsible for flow-control in a network
-an=
+an=4
 # Question 'ao': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-ao=
+ao=3
 # Question 'ap': Which layer best fits this statement: Responsible for electromagnetic compatibility
-ap=
+ap=1
 # Question 'aq': Which layer best fits this statement: Allows the checkpointing of activity in a network connection
-aq=
+aq=5
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: iSCSI
 ar=
