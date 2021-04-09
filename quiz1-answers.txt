@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: 802.11a supports higher transfer speeds than 802.11b
+ab=
+# Question 'ac': True or false: In an Ad-hoc wireless network the nodes must elect a master node to coordinate the network
+ac=
+# Question 'ad': True or false: The maximum length of an Ethernet frame is 2500 metres
+ad=
+# Question 'ae': True or false: The Shannon-Hartley Theorem describes the upper bound of the capacity of a link in terms of the noise-to-signal ratio
+ae=
+# Question 'af': True or false: The hidden node problem occurs when the transmission of two or more nodes can be received by some other node, but the transmitting nodes cannot receive the transmissions of each other
+af=
+# Question 'ag': True or false: 802.11 uses Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+ag=
+# Question 'ah': True or false: The 802.11 distribution system operates at layer 3 of the ISO architecture
+ah=
+# Question 'ai': True or false: Additional Acknowledgement involves sending a repeated ACK for the sequence number immediately prior to a lost frame
+ai=
+# Question 'aj': True or false: Ethernet does not work as well under heavy load conditions as some other alternatives, such as token ring
+aj=
+# Question 'ak': True or false: The network device driver in an operating system implements the physical layer
+ak=
+# Question 'al': True or false: Ethernet uses centralised control to determine the order in which two adaptors can attempt to send frames, so as to minimise the probability of collision
+al=
+# Question 'am': True or false: In 802.11, if both DS bits are set to 1, this means that the frame was first sent to a different access point, before being forwarded to a client
+am=
+# Question 'an': True or false: Wi-Fi supports power management and security mechanisms to optimise its function
+an=
+# Question 'ao': True or false: Wireless communications requires special measures to support point-to-multipoint communications to overcome the inherent difficulty of point-to-multipoint communications using broadcast signals
+ao=
+# Question 'ap': True or false: 4B/5B encoding cannot encode certain 5 bit input sequences, because they contain too many consecutive 1s or 0s
+ap=
+# Question 'aq': True or false: Most Bluetooth devices, especially computers, implement only a single profile
+aq=
+# Question 'ar': True or false: The Internet Protocol error detection algorithm uses ones-complement addition
+ar=
+# Question 'as': True or false: In a connectionless network the failure of any given switch need not have serious effect on the network if there are alternative paths available
+as=
+# Question 'at': True or false: With infinite latency, bandwidth dominates
+at=
+# Question 'au': True or false: Certain frequencies are reserved for specific uses, but only within certain geographical areas of each country to ensure that all frequencies are available for wireless communications in most locations
+au=
+# Question 'av': True or false: Direct Sequence transmission involves the transmission of n-bit chopping codes that divides the signal across a frequency band that is n times wider
+av=
+# Question 'aw': True or false: In 802.11, a node can send a probe frame to determine the set of access points that are within range
+aw=
+# Question 'ax': True or false: Baseline wander is corrected by sending a long series of 1s or 0s
+ax=
+# Question 'ay': True or false: DDCMP's byte-counting approach results in reduced efficiency due to the need to include the byte count field
+ay=
+# Question 'az': True or false: A separate Ethernet cable was required to connect each additional device on Original Ethernet
+az=
+# Question 'ba': True or false: Switches ordinarily examine both the header and payload of a packet to decide on which ports to forward it
+ba=
+# Question 'bb': True or false: Ethernet is available in a range of speeds
+bb=
+# Question 'bc': True or false: Transmission time is the size of the data divided by transmission speed
+bc=
+# Question 'bd': True or false: In 10BaseT, the T refers to the use of T-pieces to tap into the network
+bd=
+# Question 'be': True or false: Frequency hopping is one method of spread-spectrum transmission
+be=
+# Question 'bf': True or false: An inter-network is a number of networks connected together
+bf=
+# Question 'bg': True or false: Wavelength refers to the distance between adjacent maxima or minima of a wave
+bg=
+# Question 'bh': True or false: Error detection involves adding one or more extra bits to a frame whose values are dependent on the values of all of the other bits in the frame
+bh=
+# Question 'bi': True or false: The virtual circuit identifier of incoming and outgoing packets for a given virtual circuit on a switch may differ
+bi=
+# Question 'bj': True or false: If frames 1,2,3,5,6 and 7 have been received, and a frame with sequence number 4 is received in a Sliding Window protocol, frame 7 will be acknowledged
+bj=
+# Question 'bk': True or false: Devices that use license-exempt frequencies still face certain restrictions on their use of those license-exempt frequencies
+bk=
+# Question 'bl': True or false: NRZ encoding includes an explicit clock that can be used by clock recovery logic
+bl=
+# Question 'bm': True or false: An acknowledgements (ACK) is a short control frame sent to indicate that a frame was received
+bm=
+# Question 'bn': True or false: The maximum length of an Ethernet is based on limiting the maximum transmission time of a frame
+bn=
+# Question 'bo': True or false: Source routing is one of the most common approaches to switching and forwarding on modern networks
+bo=
+# Question 'bp': True or false: If an Ethernet is idle, a node with a frame to send will immediately send it
+bp=
+# Question 'bq': True or false: As a message goes up through a network stack, it is encapsulated and becomes smaller
+bq=
+# Question 'br': True or false: In 10Base2, the 2 refers to the maximum segment length
+br=
+# Question 'bs': True or false: Cellular and home broadband now play significant roles in facilitating internet connections
+bs=
+# Question 'bt': True or false: An Ethernet adaptor must transmit for at least the one link latency to ensure that collisions can be detected
+bt=
+# Question 'bu': True or false: The medium network links use is a common way to characterise them
+bu=
+# Question 'bv': True or false: The Sliding Window protocol avoids the need to include sequence numbers in ACKs to improve efficiency over high bandwidth product links
+bv=
+# Question 'bw': True or false: BISYNC uses special sentinel characters to identify where a frame starts and ends, and then uses a fixed-length header field to avoid the need for other special characters
+bw=
+# Question 'bx': True or false: CRCs use a polynomial because this allows checking the errors of more bits than with a checksum
+bx=
+# Question 'by': True or false: Processing is increasingly occurring in access networks, with it becoming possible to even call some ``mini data centres''
+by=
+# Question 'bz': True or false: To start a server using the socket API the socket(), bind(), listen() and accept() functions must be called
+bz=
+# Question 'ca': True or false: A network should hide errors that occur during transmission
+ca=
+# Question 'cb': True or false: Ethernet addresses belong to network adaptors, not to hosts.
+cb=
+# Question 'cc': True or false: A network socket is the point where a local application process attaches to the network
+cc=
+# Question 'cd': True or false: A client normally selects the local port number it uses when making a connection.
+cd=
+# Question 'ce': True or false: A bit transmitted at a speed of 1Mbps would have an effective width of 1 micro second
+ce=
+# Question 'cf': True or false: The accept() function accepts the next waiting connection to a server, and returns the socket for the new connection.
+cf=
+# Question 'cg': True or false: An Ethernet adaptor will normal receive all frames addressed to its own Ethernet address, to the broadcast address or to the multi-cast address range
+cg=
+# Question 'ch': True or false: The baud rate of Manchester encoding is half the bit rate
+ch=
+# Question 'ci': True or false: Adding more hosts to a switched network degrades performance for all users, because the switch will become more congested
+ci=
+# Question 'cj': True or false: DDCMP is a bit-oriented framing protocol used in DECNet
+cj=
+# Question 'ck': True or false: HDLC relies on the checksum to detect all framing errors
+ck=
+# Question 'cl': True or false: Switches can be interconnected to form larger networks
+cl=
+# Question 'cm': True or false: Both sender and receiver must implement the same error detection algorithm
+cm=
+# Question 'cn': True or false: Point-to-point and multiple access are two kinds of packet addressing
+cn=
+# Question 'co': True or false: The 802.11 distribution system forwards frames sent by clients connected to some access point to devices connected to other access points
+co=
+# Question 'cp': True or false: The send() function is used to send data or a message over a socket
+cp=
+# Question 'cq': True or false: Interference is much less of a problem for wireless communications, because each wireless device on a network normally operates on a different frequency
+cq=
+# Question 'cr': True or false: Switches rely on the contents of packets to get the information required to make switching and forwarding decisions
+cr=
+# Question 'cs': True or false: Two-dimensional parity calculates the parity of each byte and also that of each column of bits
+cs=
+# Question 'ct': True or false: The stop-and-wait protocol requires the use of sequence numbers to handle lost or delayed acknowledgements
+ct=
+# Question 'cu': True or false: Permanent virtual circuits require the installation of dedicated hardware, which must not be removed until the virtual circuit is deleted
+cu=
+# Question 'cv': True or false: A Protocol Specification may be expressed in written form, or in pseudo-code
+cv=
+# Question 'cw': True or false: Ethernet frames begin with the destination address, followed by preamble and data
+cw=
+# Question 'cx': True or false: The Sliding Window protocol always acknowledges the sequence number of the frame it has most recently received
+cx=
