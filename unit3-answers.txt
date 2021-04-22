@@ -148,21 +148,31 @@ END:ck
 cl=
 # Question 'cl': Write a true statement about the content of Slide 30 of Chapter 2
 cl=
+cl=QUIZ:1:30:2
 # Question 'cm': Write a true statement about the content of Slide 69 of Chapter 3
 cl=
+cm=QUIZ:1:69:3
 # Question 'cn': Write a false statement about the content of Slide 42 of Chapter 4
 cl=
+cn=QUIZ:0:42:4
 # Question 'co': Write a true statement about the content of Slide 113 of Chapter 2
 cl=
+co=QUIZ:1:113:2
 # Question 'cp': Write a true statement about the content of Slide 18 of Chapter 4
 cl=
+cp=QUIZ:1:18:4
 # Question 'cq': Write a false statement about the content of Slide 24 of Chapter 4
 cl=
+cq=QUIZ:0:24:4
 # Question 'cr': Write a false statement about the content of Slide 83 of Chapter 2
 cl=
+cr=QUIZ:0:83:2
 # Question 'cs': Write a false statement about the content of Slide 32 of Chapter 3
 cl=
+cs=QUIZ:0:32:3
 # Question 'ct': Write a false statement about the content of Slide 89 of Chapter 2
 cl=
+ct=QUIZ:0:89:2
 # Question 'cu': Write a true statement about the content of Slide 43 of Chapter 1
 cl=
+cu=QUIZ:1:43:1
