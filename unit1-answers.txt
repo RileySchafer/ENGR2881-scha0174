@@ -65,99 +65,101 @@ bf=2
 # Question 'bg': To which layer does this protocol correspond?: Neighbor Discovery Protocol (NDP)
 bg=2
 # Question 'bh': Can applications on nodes 2 and 3 communicate?
-bh=y
+bh=N
 # Question 'bi': If an application on node 3 sends 683 bytes of byte, how large would the PDU be at layer 1?
-bi=
+bi=1125
 # Question 'bj': What is the data rate that is possible between nodes 3 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bj=3187   
+bj=3235   
 # Question 'bk': How many milli-seconds would it take node 3 to send 9828 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bk=24
+bk=147
 # Question 'bl': Can applications on nodes 3 and 2 communicate?
-bl=y
+bl=N
 # Question 'bm': If an application on node 2 sends 843 bytes of byte, how large would the PDU be at layer 6?
-bm=
+bm=992
 # Question 'bn': What is the data rate that is possible between nodes 2 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bn=
+bn=9244
 # Question 'bo': How many milli-seconds would it take node 2 to send 835 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bo=
+bo=212
 # Question 'bp': Can applications on nodes 4 and 3 communicate?
-bp=y
+bp=N
 # Question 'bq': If an application on node 3 sends 743 bytes of byte, how large would the PDU be at layer 3?
-bq=
+bq=1068
 # Question 'br': What is the data rate that is possible between nodes 3 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-br=
+br=2072
 # Question 'bs': How many milli-seconds would it take node 3 to send 8392 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=
+bs=547
 # Question 'bt': Can applications on nodes 5 and 0 communicate?
-bt=y
+bt=Y
 # Question 'bu': If an application on node 5 sends 439 bytes of byte, how large would the PDU be at layer 4?
-bu=
+bu=753
 # Question 'bv': What is the data rate that is possible between nodes 5 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bv=
+bv=8783
 # Question 'bw': How many milli-seconds would it take node 5 to send 1174 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 bw=
 # Question 'bx': Can applications on nodes 2 and 4 communicate?
-bx=y
+bx=N
 # Question 'by': If an application on node 0 sends 154 bytes of byte, how large would the PDU be at layer 1?
-by=
+by=600
 # Question 'bz': What is the data rate that is possible between nodes 0 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bz=
+bz=1297
 # Question 'ca': How many milli-seconds would it take node 0 to send 3886 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=
+ca=787
 # Question 'cb': Can applications on nodes 0 and 1 communicate?
-cb=n
+cb=N
 # Question 'cc': If an application on node 0 sends 737 bytes of byte, how large would the PDU be at layer 6?
-cc=
+cc=806
 # Question 'cd': What is the data rate that is possible between nodes 0 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cd=
+cd=3808
 # Question 'ce': How many milli-seconds would it take node 0 to send 6561 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ce=
+ce=162
 # Question 'cf': Can applications on nodes 1 and 2 communicate?
-cf=y
+cf=N
 # Question 'cg': If an application on node 0 sends 406 bytes of byte, how large would the PDU be at layer 5?
-cg=
+cg=545
 # Question 'ch': What is the data rate that is possible between nodes 0 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ch=
+ch=1207
 # Question 'ci': How many milli-seconds would it take node 0 to send 5041 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ci=
+ci=407
 # Question 'cj': Can applications on nodes 0 and 5 communicate?
-cj=n
+cj=Y
 # Question 'ck': If an application on node 2 sends 512 bytes of byte, how large would the PDU be at layer 5?
-ck=
+ck=706
 # Question 'cl': What is the data rate that is possible between nodes 2 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cl=
+cl=1860
 # Question 'cm': How many milli-seconds would it take node 2 to send 3118 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cm=
+cm=953
 # Question 'cn': Can applications on nodes 4 and 0 communicate?
-cn=n
+cn=N
 # Question 'co': If an application on node 4 sends 696 bytes of byte, how large would the PDU be at layer 4?
-co=
+co=944
 # Question 'cp': What is the data rate that is possible between nodes 4 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cp=
+cp=2611
 # Question 'cq': How many milli-seconds would it take node 4 to send 1647 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cq=
+cq=1510
 # Question 'cr': Can applications on nodes 2 and 3 communicate?
-cr=y
+cr=Y
 # Question 'cs': If an application on node 3 sends 336 bytes of byte, how large would the PDU be at layer 7?
-cs=
+cs=376
 # Question 'ct': What is the data rate that is possible between nodes 3 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ct=
+ct=5864
 # Question 'cu': How many milli-seconds would it take node 3 to send 8257 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cu=
+cu=39
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
-cv= Congestion. While trasnporting packets its very easy for outdated network technologys to present an issue when a link is congested.
+cv= incorrectly configured Dynamic Trunking Protocol happening at layer 2. Trunks not being configured correctly means computers within the network with different VLANS will not be able to communicate.Inputting correct adresses will fix it.
 # Question 'cw': Reliability Challenge #1
-cw=
+cw= Routing Information Protocol issues happening at layer 3.  The distance-vector algorithm is very slow when converging. Implementing EIGRP, which is a new and improved routing protocol, will increase speed. 
 # Question 'cx': Reliability Challenge #2
-cx=
+cx=User Datagram Protocol (UDP) losing packets happening at layer 4. As UDP is a free form transfer packets can be lost and not accounted for. Either back up senstive information or opt for TCP secure transfer.
 # Question 'cy': Reliability Challenge #3
-cy=
+cy= Troubleshooting Domain name system (DNS) happening at layer 7. DNS servers can be large within an enterprise enviroment, and essential. Tje issue is that DNS servers can become so complicated troubleshooting becomes a serious task. Implementing correct risk managment documentation can make it an easier job.
 # Question 'cz': Reliability Challenge #4
-cz=
-# Question 'da': Congestion and packet loss 
+cz= DDOS attacks IEEE 802.11 (Wi-Fi) happening at layer 2. Denial of service attacks are extremly common with Wi-fi connected devices. To counter this consider getting a router that has protection against these types of attacks. 
+# Question 'da':  
 BEGIN:da
+When the TCP transfer encounters an issue with packet loss it has no way to tell if it was due to lost connection, medium being disconnected. It always defaults to congested as the reason for packet loss. This type of confusion can lead to network admins mistakenly fixing a part of the TCP that did not cause the error. A way to mitiagte this is to check where the packet got lost. Did the packet get flagged by the checksum, were the ACK packets retrasmitted? Reserve engineering the delivery of the packet is a great way to find it.   
 END:da
 # Question 'db': Describe how a layered network approach can be used to increase the security of a network, without having to change the applications that use the network. If a network was not built using a layered approach, how might security need to be fitted to such a network, if it were required? What would the impacts be? 
 BEGIN:db
+
 END:db
