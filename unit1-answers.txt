@@ -16,13 +16,13 @@ ah=2
 # Question 'ai': Which layer best fits this statement: Responsible for selecting the best path between nodes
 ai=3
 # Question 'aj': Which layer best fits this statement: Allows for the recovery of a lost connection
-aj=4
+aj=2
 # Question 'ak': Which layer best fits this statement: De-duplicates received packets
-ak=3
+ak=4
 # Question 'al': Which layer best fits this statement: Responsible for establishing sessions
 al=5
 # Question 'am': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
-am=2
+am=3
 # Question 'an': Which layer best fits this statement: Responsible for flow-control in a network
 an=4
 # Question 'ao': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
@@ -33,7 +33,7 @@ ap=1
 aq=5
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: iSCSI
-ar=5
+ar=4
 # Question 'as': To which layer does this protocol correspond?: Transmission Control Protocol
 as=4
 # Question 'at': To which layer does this protocol correspond?: Asynchronous Transfer Mode (ATM)
@@ -45,7 +45,7 @@ av=2
 # Question 'aw': To which layer does this protocol correspond?: NetBIOS Frames (NBF)
 aw=4
 # Question 'ax': To which layer does this protocol correspond?: NetBIOS
-ax=4
+ax=5
 # Question 'ay': To which layer does this protocol correspond?: NetWare Core Protocol (NCP)
 ay=5
 # Question 'az': To which layer does this protocol correspond?: IPX
@@ -61,7 +61,7 @@ bd=4
 # Question 'be': To which layer does this protocol correspond?: Distributed Multi-Link Trunking
 be=2
 # Question 'bf': To which layer does this protocol correspond?: 802.11
-bf=2
+bf=1
 # Question 'bg': To which layer does this protocol correspond?: Neighbor Discovery Protocol (NDP)
 bg=2
 # Question 'bh': Can applications on nodes 2 and 3 communicate?
