@@ -1,34 +1,37 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'cryptographic hash functions and vulnerabilities (eg MD5 and successors)'
 BEGIN:ab
+
 END:ab
 # Question 'ac': Write not more than 250 words about 'forward secrecy in encryption algorithms'
 BEGIN:ac
+Cryptographic hash functions are unique mathematical equation formulas used to disguise or encrypt sensitive information. Commonly used within the e-commerce industry to protect sensitive consumer details when making payments. Cryptographic hash functions conceal information like credit card details during the data transfer process to deter hackers from gaining sensitive information. In recent times cryptography has been used in blockchain systems. Hashing in cryptocurrency is extremely vital in protecting one’s information, as hacking within the crypto world is common. Widely used hashing functions include: Secure hashing algorithm (SHA-2 and SHA-3), message digest algorithm (MD5) and BLAKE2. Each of these hashing functions work with different algorithms to produce separate outputs. However, its not uncommon for people to use multiple hashing functions to encrypt sensitive data. These hashing functions are selectively used depending on what data needs to be encrypted. For hashing data and certificate files SHA2 is used due to its unique output with every data string. Whereas, for vulnerable passwords bcrypt is widely used due to its ability to scale with computing power. However, using pre-dated hash functions can result in serious security vulnerabilities. Brute force attacks and attacks using probabilistic algorithms can break old hashing functions like SHA1. But nowadays it is very uncommon to see newer hash functions being exploited due to the serious complexity of algorithms and collision resistants.    
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+The Hypertext Transfer Protocol Secure is an updated version of the previous HTTP staple formerly used. The secure protocol was implemented to use TSL to encrypt HTTP requests and replies. Meaning it was far more secure as user data was fully encrypted, and hackers were unable to sniff internet traffic. However, malicious sites commonly do not implement HTTPS or disguise that it is. For this reason, the popular browser ‘Firefox’ introduced the HTTPS-Only Mode. This mode can be extremely handy to ensure security when entering passwords, or any type of sensitive information within a website. Some people unfortunately fall victim to eavesdropping attacks which was the main motive for Firefox to introduce a mode like this. 
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=Y
 # Question 'af': Write a true statement about the content of Slide 121 of Chapter 2
-af=
+af=A and C are unaware of a collison because they're not using ethernet as the transfer medium
 # Question 'ag': Write a true statement about the content of Slide 106 of Chapter 2
-ag=
+ag=Wireless links transmit electromagneetic signals 
 # Question 'ah': Write a true statement about the content of Slide 44 of Chapter 4
-ah=
+ah=A home agent can intercept a packet that is destined for a mobile node using a proxy ARP
 # Question 'ai': Write a false statement about the content of Slide 96 of Chapter 2
-ai=
+ai=Ethernet does not support ethernet collision
 # Question 'aj': Write a false statement about the content of Slide 27 of Chapter 1
-aj=
+aj= any new protocol can be officially implemented without any specifications
 # Question 'ak': Write a false statement about the content of Slide 25 of Chapter 2
-ak=
+ak=The CRC bit of a BISYNC frame consists of 16 bits
 # Question 'al': Write a false statement about the content of Slide 9 of Chapter 5
-al=
+al=Length and checksum files should be switched for a UDP frame.
 # Question 'am': Write a false statement about the content of Slide 110 of Chapter 2
-am=
+am=A second spread spectrum technique is called Single Sequence
 # Question 'an': Write a false statement about the content of Slide 46 of Chapter 4
-an=
+an=CRC stands for Cyclic redundancy check
 # Question 'ao': Write a true statement about the content of Slide 15 of Chapter 2
-ao=
+ao=NRZI encoding solves consecutives 1s
