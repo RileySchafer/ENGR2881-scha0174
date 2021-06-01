@@ -132,20 +132,20 @@ cn=T
 # Question 'co': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
 co=T
 # Question 'cp': True or false: Scheduling disciplines and drop policies are distinct aspects of packet queuing
-cp=
+cp=T
 # Question 'cq': True or false: The UDP protocol demultiplexes packets arriving at a host into separate queues for each application
-cq=
+cq=T
 # Question 'cr': True or false: Routers maintain a table of which specific port each multicast group's traffic should be forwarded to
-cr=
+cr=T
 # Question 'cs': True or false: The TSpec of a flow is easier to define correctly than the RSpec
-cs=
+cs=F
 # Question 'ct': True or false: The role of a transport protocol is to transport packets from one host to another
-ct=
+ct=T
 # Question 'cu': True or false: One approach to congestion control is to allow sources to send as much data as they want, disconnecting sources when congestion occurs, until the congestion abates
-cu=
+cu=F
 # Question 'cv': True or false: A significant routing problem is how to make it scale to billions of end nodes
-cv=
+cv=T
 # Question 'cw': True or false: Multicast results in increased redundancy and bandwidth consumption
-cw=
+cw=T
 # Question 'cx': True or false: The TCP Slow Start algorithm is used only at the commencement of a TCP connection
-cx=
+cx=T
