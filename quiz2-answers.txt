@@ -1,136 +1,136 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Many networking functions are being absorbed into cloud services
-ab=
+ab=T
 # Question 'ac': True or false: Multi-Protocol Label Switching is a hybrid of virtual circuits and datagram based networks
-ac=
+ac=T
 # Question 'ad': True or false: The sliding window protocol is the heart of TCP
-ad=
+ad=T
 # Question 'ae': True or false: A network flow is an end-to-end abstraction that helps routers to manage network congestion
-ae=
+ae=F
 # Question 'af': True or false: Transport protocols often have to contend with networks limiting the number of messages that can be sent
-af=
+af=T
 # Question 'ag': True or false: Randomised Early Detection (RED) randomly drops packets before congestion occurs to signal to senders to slow down
-ag=
+ag=T
 # Question 'ah': True or false: The UDP header contains source port, destination port, checksum and length fields
-ah=
+ah=T
 # Question 'ai': True or false: It is common for backbone providers to interconnect with each other at a single peering point
-ai=
+ai=T
 # Question 'aj': True or false: Differentiated Services typically uses a label in a packet header to identify the traffic class
-aj=
+aj=F
 # Question 'ak': True or false: Increasing the throughput of a network by increasing the number of packets that can be in the network at any point improves both the throughput and delay of the network
-ak=
+ak=T
 # Question 'al': True or false: Controlled Load Service in RSVP means that the network should control the volume of packets of that service that are admitted to the network
-al=
+al=T
 # Question 'am': True or false: The advertised window field in the TCP header could be extended by several bits without messing up the sliding window protocol
-am=
+am=F
 # Question 'an': True or false: IPv6 does not support multicast, but instead uses its mobility features to provide the same functionality
-an=
+an=F
 # Question 'ao': True or false: Key network resources to be allocated include the bandwidth of links and buffers at routers and switches
-ao=
+ao=T
 # Question 'ap': True or false: Randomised Early Detection (RED) does not drop packets if the average queue length is below some threshold
-ap=
+ap=T
 # Question 'aq': True or false: TCP Fast Recovery uses outstanding ACKs following a Fast Retransmit to avoid the need for re-using the Slow Start algorithm
-aq=
+aq=T
 # Question 'ar': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the throughput of the network
-ar=
+ar=T
 # Question 'as': True or false: It is the responsibility of switches to ensure that multicast behaves correctly on IPv4
-as=
+as=F
 # Question 'at': True or false: The DEC Bit is a mechanism for Congestion Avoidance that works by setting a congestion indication bit in packets that arrive when network queues are full, i.e., congested
-at=
+at=T
 # Question 'au': True or false: "Integrated Services" is a coarse-grained quality-of-service approach
-au=
+au=T
 # Question 'av': True or false: Network flows are streams of related packets that flow through a given Autonomous System
-av=
+av=F
 # Question 'aw': True or false: The Karn/Partridge algorithm does not sample RTT when retransmitting a segment
-aw=
+aw=T
 # Question 'ax': True or false: The TCP checksum field in the TCP header occurs after all other header fields
-ax=
+ax=F
 # Question 'ay': True or false: Exterior Gateway Protocol and Border Gateway Protocol are two inter-domain routing protocols
-ay=
+ay=T
 # Question 'az': True or false: TCP throughput may need to be throttled on very fast networks to prevent sliding window wrap-around occurring too frequently
-az=
+az=F
 # Question 'ba': True or false: The peak power of a network typically occurs a little below the maximum load the network can handle
-ba=
+ba=F
 # Question 'bb': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
-bb=
+bb=F
 # Question 'bc': True or false: IPv6 uses Classless Addressing/Routing, similar to IPv4 CIDR
-bc=
+bc=T
 # Question 'bd': True or false: Transport protocols typically support arbitrary large messages
-bd=
+bd=T
 # Question 'be': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
-be=
+be=T
 # Question 'bf': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
-bf=
+bf=T
 # Question 'bg': True or false: Each Autonomous System is required to have one BGP Speaker per connected AS
-bg=
+bg=T
 # Question 'bh': True or false: Remote Procedure Call is an example of an end-to-end protocol
-bh=
+bh=F
 # Question 'bi': True or false: Quality-of-Service implies that some packets will be treated differently to others
-bi=
+bi=T
 # Question 'bj': True or false: RPC is a protocol that sits on top of IP, similar to TCP and UDP
-bj=
+bj=T
 # Question 'bk': True or false: BGP solves the problem of route advertisement trust between Autonomous Systems
-bk=
+bk=T
 # Question 'bl': True or false: The acknowledgement, source and destination ports, and advertised window fields are all involved in TCP's sliding window protocol
-bl=
+bl=F
 # Question 'bm': True or false: The Internet's topology in the early 1990s was a star network
-bm=
+bm=F
 # Question 'bn': True or false: Flowspec can use a Token Bucket Filter to enforce average bandwidth allocations, however this does not work well for variable bitrate sources
-bn=
+bn=T
 # Question 'bo': True or false: Proxy ARP is used by foreign agents to intercept packets addressed to mobile nodes
-bo=
+bo=F
 # Question 'bp': True or false: The original TCP retransmission timeout was set to the estimated RTT of the network path
-bp=
+bp=T
 # Question 'bq': True or false: A host may be in multiple multicast groups
-bq=
+bq=T
 # Question 'br': True or false: Fair Queuing performs bit-by-bit interleaving of packets to ensure fair allocation of network bandwidth
-br=
+br=T
 # Question 'bs': True or false: Reverse Path Broadcast is used to propagate the return path for two-way multicast traffic
-bs=
+bs=T
 # Question 'bt': True or false: An example of one-to-many multicast would be radio station broadcast
-bt=
+bt=T
 # Question 'bu': True or false: The TCP slow start algorithm increases the TCP congestion window size more rapidly than if it did not exist
-bu=
+bu=T
 # Question 'bv': True or false: Routing Areas allow groups of backbone routers to be defined
-bv=
+bv=T
 # Question 'bw': True or false: FIFO Queuing maintains separate queues per network flow, to improve fairness
-bw=
+bw=F
 # Question 'bx': True or false: Route Propagation refers to the movement of user data over existing routes
-bx=
+bx=T
 # Question 'by': True or false: The TCP Slow Start algorithm exists to slow the increase in congestion window size growth before the first packet loss occurs
-by=
+by=F
 # Question 'bz': True or false: The maximum segment lifetime in a TCP connection is limited to 120 seconds to reduce the amount of data that must be buffered throughout the network
-bz=
+bz=T
 # Question 'ca': True or false: Congestion in networks often occurs because a connected host has a faster local connection than some other part of the network, which then acts as a bottle-neck
-ca=
+ca=F
 # Question 'cb': True or false: Voice, video and remote control are examples of network applications where Quality-of-Service should work to minimise latency
-cb=
+cb=T
 # Question 'cc': True or false: In a reservation-based system, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
-cc=
+cc=T
 # Question 'cd': True or false: Network resource allocation is either one of router-centric or host-centric
-cd=
+cd=T
 # Question 'ce': True or false: Transit traffic is traffic that transits into an Autonomous System to reach a destination in that Autonomous System
-ce=
+ce=T
 # Question 'cf': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one congestion window's worth of bytes to the congestion window size
-cf=
+cf=T
 # Question 'cg': True or false: The TCP checksum field is calculated over data from only the TCP and IP layer headers
-cg=
+cg=T
 # Question 'ch': True or false: Source specific multicast avoids the need for including the source IP address in multicasting forwarding tables
-ch=
+ch=F
 # Question 'ci': True or false: Source-based Congestion Avoidance reduces the congestion window slightly whenever the RTT increases above the average RTT
-ci=
+ci=T
 # Question 'cj': True or false: It is up to a TCP implementation to decide when it has enough bytes to send a segment
-cj=
+cj=T
 # Question 'ck': True or false: The congestion control protocol of TCP communicates the congestion window by setting the advertised window and flags in the TCP header to indicate that the value is for the congestion window
-ck=
+ck=T
 # Question 'cl': True or false: If the TCP Slow Start algorithm is re-started, the Congestion Threshold is reset to 0
-cl=
+cl=F
 # Question 'cm': True or false: The goal of inter-domain routing is to find loop-free routes between nodes
-cm=
+cm=T
 # Question 'cn': True or false: TCP normally buffers enough bytes to fill a reasonable sized packet on the sending side, before dispatching it
-cn=
+cn=T
 # Question 'co': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
-co=
+co=T
 # Question 'cp': True or false: Scheduling disciplines and drop policies are distinct aspects of packet queuing
 cp=
 # Question 'cq': True or false: The UDP protocol demultiplexes packets arriving at a host into separate queues for each application
